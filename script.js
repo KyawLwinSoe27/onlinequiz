@@ -72,7 +72,7 @@ myApp=[
             {
               question: "Myanmar famous POP girl singer?",
               options: ["Bobby Soxer","May La Than Zin","Chan Chan","Than E"],
-              answer:2,
+              answer:1,
             },
         ]
     },
