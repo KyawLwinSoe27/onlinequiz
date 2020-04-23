@@ -62,7 +62,8 @@ myApp=[
             {
             question:"Who invented EDM?",
             options:["Jean-Michel Jarre","David Guetta","Eck Robertson","None"],
-            answer:1,    
+            answer:1,
+            }
         ]
     },
     {
