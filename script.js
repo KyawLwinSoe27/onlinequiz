@@ -32,31 +32,31 @@ myApp=[
         category:"Music",
         quizWrap:[
             {
-            question:"Which organ belongs to the Digestive System:",
-            options:["Thymus","Stomach","Heart","Trachea"],
-            answer:1
+            question:"Which is a song by The Who?",
+            options:["Your Generation","Jack and Diane","Hey Jude","Pinball Wizard"],
+            answer:3
 
             },
             {
-            question:"Adults have fewer bones than babies do.",
-            options:["true","false"],
+            question:"Which female artist had a hit with the song Baby Baby in 1991?",
+            options:["Faith Hill","Shania Twain","Martina McBride","Amy Grant"],
+            answer:3,
+            description:""
+            },
+            {
+            question:"Which of these classic country  singers was known as the Silver Fox?",
+            options:["Tom Paxton","Charlie Pride","Tom T. Hall","Charlie Rich"],
+            answer:3,
+            },
+            {
+            question:"Ole Man River is a song composed in 1927 for which musical?",
+            options:["Show Boat","Willkommen","Les Miserables","The Producers"],
             answer:0,
-            description:"Lots of bones start out as several fragments at birth,then fuse together into a single bone later in life"
+            description:""
             },
             {
-            question:"Our human body has.........",
-            options:["206 bones","210 bones","306 bones","706 bones"],
-            answer:0,
-            },
-            {
-            question:"Your fingernails and hair keep growing after you die.",
-            options:["true","false"],
-            answer:1,
-            description:"They really don't"
-            },
-            {
-            question:"One important function of bones is to produce.",
-            options:["tendons","ligaments","blood cells","cartilage"],
+            question:"Which Justin Bieber track opens with the line 'Say the word, on my way. Any night, any day. Say the word, on my way?'",
+            options:["Camila Cabello","Trevor Daniel","Yummy","Jonas Brothers"],
             answer:2,
             },
         ]
