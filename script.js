@@ -44,9 +44,9 @@ myApp=[
             description:""
             },
             {
-            question:"Which of these classic country  singers was known as the Silver Fox?",
-            options:["Tom Paxton","Charlie Pride","Tom T. Hall","Charlie Rich"],
-            answer:3,
+            question:"When was Edm most popular?",
+            options:["late 1980s and early 1990s","late 2010s","early 1920","late 1990s and early 1980s"],
+            answer:0,
             },
             {
             question:"Ole Man River is a song composed in 1927 for which musical?",
@@ -59,6 +59,10 @@ myApp=[
             options:["Camila Cabello","Trevor Daniel","Yummy","Jonas Brothers"],
             answer:2,
             },
+            {
+            question:"Who invented EDM?",
+            options:["Jean-Michel Jarre","David Guetta","Eck Robertson","None"],
+            answer:1,    
         ]
     },
     {
