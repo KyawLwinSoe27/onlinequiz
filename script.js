@@ -69,6 +69,11 @@ myApp=[
               options: ["Jacquees","Gladys Knight","Mariah Carey","Eminem Eminem"],
               answer:2,
             },
+            {
+              question: "Myanmar famous POP girl singer?",
+              options: ["Bobby Soxer","May La Than Zin","Chan Chan","Than E"],
+              answer:2,
+            },
         ]
     },
     {
