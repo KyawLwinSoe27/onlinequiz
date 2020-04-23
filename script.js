@@ -264,7 +264,7 @@ if(number == myApp.length){
     quizOver();
   }
 function startTimer(){
-    let timeLimit=15;
+    let timeLimit=60;
     remainingTime.innerHTML=timeLimit;
     remainingTime.classList.remove("less-time");
     interval=setInterval(()=>{
