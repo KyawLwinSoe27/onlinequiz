@@ -63,7 +63,12 @@ myApp=[
             question:"Who invented EDM?",
             options:["Jean-Michel Jarre","David Guetta","Eck Robertson","None"],
             answer:1,
-            }
+            },
+            {
+              question: "Who is the most successful R&B artist?",
+              options: ["Jacquees","Gladys Knight","Mariah Carey","Eminem Eminem"],
+              answer:2,
+            },
         ]
     },
     {
