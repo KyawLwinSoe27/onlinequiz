@@ -29,7 +29,7 @@ let categoryIndex;
 // array of objects
 myApp=[
     {
-        category:"Human Body",
+        category:"Music",
         quizWrap:[
             {
             question:"Which organ belongs to the Digestive System:",
@@ -62,7 +62,7 @@ myApp=[
         ]
     },
     {
-        category:"Internation - Current Affairs",
+        category:"Environmental",
         quizWrap:[
             {
              question:"Which of the following has become the first country to make all forms of public transport free?",
